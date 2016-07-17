@@ -35,4 +35,4 @@ docker run -it  --net='host' -e "SERVICE_NAME=skype" -e HUBOT_SCRIPTS_URL="https
 ```
 
 ## Thanks
-Thanks to **@tfhartmann** for https://github.com/tfhartmann/hubot-hipchat repository.
+Thanks to @tfhartmann for https://github.com/tfhartmann/hubot-hipchat repository.
